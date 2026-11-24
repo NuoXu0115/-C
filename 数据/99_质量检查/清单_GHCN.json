@@ -1,0 +1,122 @@
+{
+  "USW00003017": {
+    "airport": "DEN",
+    "bytes": 2203200,
+    "status": "ok",
+    "file": "USW00003017.dly"
+  },
+  "USW00094846": {
+    "airport": "ORD",
+    "bytes": 4516830,
+    "status": "ok",
+    "file": "USW00094846.dly"
+  },
+  "USW00094789": {
+    "airport": "JFK",
+    "bytes": 4250610,
+    "status": "ok",
+    "file": "USW00094789.dly"
+  },
+  "USW00003927": {
+    "airport": "DFW",
+    "bytes": 4399920,
+    "status": "ok",
+    "file": "USW00003927.dly"
+  },
+  "USW00013874": {
+    "airport": "ATL",
+    "bytes": 4938300,
+    "status": "ok",
+    "file": "USW00013874.dly"
+  },
+  "USW00024233": {
+    "airport": "SEA",
+    "bytes": 4413420,
+    "status": "ok",
+    "file": "USW00024233.dly"
+  },
+  "USW00023234": {
+    "airport": "SFO",
+    "bytes": 4165020,
+    "status": "ok",
+    "file": "USW00023234.dly"
+  },
+  "USW00023174": {
+    "airport": "LAX",
+    "bytes": 4108590,
+    "status": "ok",
+    "file": "USW00023174.dly"
+  },
+  "USW00014739": {
+    "airport": "BOS",
+    "bytes": 5206950,
+    "status": "ok",
+    "file": "USW00014739.dly"
+  },
+  "USW00023183": {
+    "airport": "PHX",
+    "bytes": 1638436,
+    "status": "ok",
+    "file": "USW00023183.dly"
+  },
+  "USW00012839": {
+    "airport": "MIA",
+    "bytes": 4321080,
+    "status": "ok",
+    "file": "USW00012839.dly"
+  },
+  "USW00014732": {
+    "airport": "LGA",
+    "bytes": 4640220,
+    "status": "ok",
+    "file": "USW00014732.dly"
+  },
+  "USW00012960": {
+    "airport": "IAH",
+    "bytes": 3859380,
+    "status": "ok",
+    "file": "USW00012960.dly"
+  },
+  "USW00022521": {
+    "airport": "HNL",
+    "bytes": 3812400,
+    "status": "ok",
+    "file": "USW00022521.dly"
+  },
+  "USW00014922": {
+    "airport": "MSP",
+    "bytes": 5091660,
+    "status": "ok",
+    "file": "USW00014922.dly"
+  },
+  "USW00023169": {
+    "airport": "LAS",
+    "bytes": 3846960,
+    "status": "ok",
+    "file": "USW00023169.dly"
+  },
+  "USW00012815": {
+    "airport": "MCO",
+    "bytes": 4032720,
+    "status": "ok",
+    "file": "USW00012815.dly"
+  },
+  "USW00024127": {
+    "airport": "SLC",
+    "bytes": 5062770,
+    "status": "ok",
+    "file": "USW00024127.dly"
+  },
+  "USW00013743": {
+    "airport": "DCA",
+    "bytes": 5101920,
+    "status": "ok",
+    "file": "USW00013743.dly"
+  },
+  "USW00026451": {
+    "airport": "ANC",
+    "bytes": 4493610,
+    "status": "ok",
+    "file": "USW00026451.dly"
+  }
+}

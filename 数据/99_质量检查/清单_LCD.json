@@ -1,0 +1,562 @@
+{
+  "ATL_72219013874_2026.csv": {
+    "airport": "ATL",
+    "station": "72219013874",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "ATL_72219013874_2024.csv": {
+    "airport": "ATL",
+    "station": "72219013874",
+    "year": 2024,
+    "bytes": 9207993,
+    "status": "ok"
+  },
+  "ORD_72530094846_2023.csv": {
+    "airport": "ORD",
+    "station": "72530094846",
+    "year": 2023,
+    "bytes": 8834860,
+    "status": "ok"
+  },
+  "ORD_72530094846_2025.csv": {
+    "airport": "ORD",
+    "station": "72530094846",
+    "year": 2025,
+    "bytes": 5937790,
+    "status": "ok"
+  },
+  "ORD_72530094846_2026.csv": {
+    "airport": "ORD",
+    "station": "72530094846",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "ATL_72219013874_2025.csv": {
+    "airport": "ATL",
+    "station": "72219013874",
+    "year": 2025,
+    "bytes": 6094852,
+    "status": "ok"
+  },
+  "ORD_72530094846_2024.csv": {
+    "airport": "ORD",
+    "station": "72530094846",
+    "year": 2024,
+    "bytes": 9162846,
+    "status": "ok"
+  },
+  "DFW_72259003927_2025.csv": {
+    "airport": "DFW",
+    "station": "72259003927",
+    "year": 2025,
+    "bytes": 5620149,
+    "status": "ok"
+  },
+  "DFW_72259003927_2026.csv": {
+    "airport": "DFW",
+    "station": "72259003927",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "DFW_72259003927_2024.csv": {
+    "airport": "DFW",
+    "station": "72259003927",
+    "year": 2024,
+    "bytes": 8743859,
+    "status": "ok"
+  },
+  "DEN_72467003017_2023.csv": {
+    "airport": "DEN",
+    "station": "72467003017",
+    "year": 2023,
+    "bytes": 0,
+    "status": "404"
+  },
+  "DEN_72467003017_2024.csv": {
+    "airport": "DEN",
+    "station": "72467003017",
+    "year": 2024,
+    "bytes": 0,
+    "status": "404"
+  },
+  "DEN_72467003017_2025.csv": {
+    "airport": "DEN",
+    "station": "72467003017",
+    "year": 2025,
+    "bytes": 0,
+    "status": "404"
+  },
+  "DEN_72467003017_2026.csv": {
+    "airport": "DEN",
+    "station": "72467003017",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "ATL_72219013874_2023.csv": {
+    "airport": "ATL",
+    "station": "72219013874",
+    "year": 2023,
+    "bytes": 8676303,
+    "status": "ok"
+  },
+  "DFW_72259003927_2023.csv": {
+    "airport": "DFW",
+    "station": "72259003927",
+    "year": 2023,
+    "bytes": 8735078,
+    "status": "ok"
+  },
+  "LAX_72295023174_2026.csv": {
+    "airport": "LAX",
+    "station": "72295023174",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "LAX_72295023174_2025.csv": {
+    "airport": "LAX",
+    "station": "72295023174",
+    "year": 2025,
+    "bytes": 5807187,
+    "status": "ok"
+  },
+  "LAX_72295023174_2023.csv": {
+    "airport": "LAX",
+    "station": "72295023174",
+    "year": 2023,
+    "bytes": 8381458,
+    "status": "ok"
+  },
+  "JFK_74486094789_2024.csv": {
+    "airport": "JFK",
+    "station": "74486094789",
+    "year": 2024,
+    "bytes": 9192243,
+    "status": "ok"
+  },
+  "JFK_74486094789_2026.csv": {
+    "airport": "JFK",
+    "station": "74486094789",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "JFK_74486094789_2023.csv": {
+    "airport": "JFK",
+    "station": "74486094789",
+    "year": 2023,
+    "bytes": 8679579,
+    "status": "ok"
+  },
+  "SFO_72494023234_2024.csv": {
+    "airport": "SFO",
+    "station": "72494023234",
+    "year": 2024,
+    "bytes": 8414104,
+    "status": "ok"
+  },
+  "SFO_72494023234_2023.csv": {
+    "airport": "SFO",
+    "station": "72494023234",
+    "year": 2023,
+    "bytes": 7941386,
+    "status": "ok"
+  },
+  "SFO_72494023234_2026.csv": {
+    "airport": "SFO",
+    "station": "72494023234",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "LAX_72295023174_2024.csv": {
+    "airport": "LAX",
+    "station": "72295023174",
+    "year": 2024,
+    "bytes": 9062774,
+    "status": "ok"
+  },
+  "SEA_72793024233_2023.csv": {
+    "airport": "SEA",
+    "station": "72793024233",
+    "year": 2023,
+    "bytes": 8750049,
+    "status": "ok"
+  },
+  "JFK_74486094789_2025.csv": {
+    "airport": "JFK",
+    "station": "74486094789",
+    "year": 2025,
+    "bytes": 6176366,
+    "status": "ok"
+  },
+  "SFO_72494023234_2025.csv": {
+    "airport": "SFO",
+    "station": "72494023234",
+    "year": 2025,
+    "bytes": 5616577,
+    "status": "ok"
+  },
+  "SEA_72793024233_2026.csv": {
+    "airport": "SEA",
+    "station": "72793024233",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "SEA_72793024233_2025.csv": {
+    "airport": "SEA",
+    "station": "72793024233",
+    "year": 2025,
+    "bytes": 5887920,
+    "status": "ok"
+  },
+  "MIA_72202012839_2024.csv": {
+    "airport": "MIA",
+    "station": "72202012839",
+    "year": 2024,
+    "bytes": 8643599,
+    "status": "ok"
+  },
+  "MIA_72202012839_2026.csv": {
+    "airport": "MIA",
+    "station": "72202012839",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "MIA_72202012839_2025.csv": {
+    "airport": "MIA",
+    "station": "72202012839",
+    "year": 2025,
+    "bytes": 5633045,
+    "status": "ok"
+  },
+  "PHX_72278023183_2024.csv": {
+    "airport": "PHX",
+    "station": "72278023183",
+    "year": 2024,
+    "bytes": 8521450,
+    "status": "ok"
+  },
+  "PHX_72278023183_2025.csv": {
+    "airport": "PHX",
+    "station": "72278023183",
+    "year": 2025,
+    "bytes": 5542423,
+    "status": "ok"
+  },
+  "PHX_72278023183_2026.csv": {
+    "airport": "PHX",
+    "station": "72278023183",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "PHX_72278023183_2023.csv": {
+    "airport": "PHX",
+    "station": "72278023183",
+    "year": 2023,
+    "bytes": 7871724,
+    "status": "ok"
+  },
+  "SEA_72793024233_2024.csv": {
+    "airport": "SEA",
+    "station": "72793024233",
+    "year": 2024,
+    "bytes": 9132860,
+    "status": "ok"
+  },
+  "MIA_72202012839_2023.csv": {
+    "airport": "MIA",
+    "station": "72202012839",
+    "year": 2023,
+    "bytes": 8805350,
+    "status": "ok"
+  },
+  "BOS_72509014739_2026.csv": {
+    "airport": "BOS",
+    "station": "72509014739",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "MSP_72658014922_2023.csv": {
+    "airport": "MSP",
+    "station": "72658014922",
+    "year": 2023,
+    "bytes": 10008359,
+    "status": "ok"
+  },
+  "BOS_72509014739_2025.csv": {
+    "airport": "BOS",
+    "station": "72509014739",
+    "year": 2025,
+    "bytes": 6815385,
+    "status": "ok"
+  },
+  "MSP_72658014922_2025.csv": {
+    "airport": "MSP",
+    "station": "72658014922",
+    "year": 2025,
+    "bytes": 6546438,
+    "status": "ok"
+  },
+  "MSP_72658014922_2026.csv": {
+    "airport": "MSP",
+    "station": "72658014922",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "BOS_72509014739_2024.csv": {
+    "airport": "BOS",
+    "station": "72509014739",
+    "year": 2024,
+    "bytes": 10417833,
+    "status": "ok"
+  },
+  "IAH_72243012960_2023.csv": {
+    "airport": "IAH",
+    "station": "72243012960",
+    "year": 2023,
+    "bytes": 8013541,
+    "status": "ok"
+  },
+  "IAH_72243012960_2025.csv": {
+    "airport": "IAH",
+    "station": "72243012960",
+    "year": 2025,
+    "bytes": 5681631,
+    "status": "ok"
+  },
+  "IAH_72243012960_2026.csv": {
+    "airport": "IAH",
+    "station": "72243012960",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "BOS_72509014739_2023.csv": {
+    "airport": "BOS",
+    "station": "72509014739",
+    "year": 2023,
+    "bytes": 10817556,
+    "status": "ok"
+  },
+  "ANC_70273026451_2023.csv": {
+    "airport": "ANC",
+    "station": "70273026451",
+    "year": 2023,
+    "bytes": 10299579,
+    "status": "ok"
+  },
+  "ANC_70273026451_2025.csv": {
+    "airport": "ANC",
+    "station": "70273026451",
+    "year": 2025,
+    "bytes": 6614450,
+    "status": "ok"
+  },
+  "ANC_70273026451_2026.csv": {
+    "airport": "ANC",
+    "station": "70273026451",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "HNL_91182022521_2023.csv": {
+    "airport": "HNL",
+    "station": "91182022521",
+    "year": 2023,
+    "bytes": 8204403,
+    "status": "ok"
+  },
+  "HNL_91182022521_2024.csv": {
+    "airport": "HNL",
+    "station": "91182022521",
+    "year": 2024,
+    "bytes": 8707096,
+    "status": "ok"
+  },
+  "HNL_91182022521_2025.csv": {
+    "airport": "HNL",
+    "station": "91182022521",
+    "year": 2025,
+    "bytes": 5643657,
+    "status": "ok"
+  },
+  "HNL_91182022521_2026.csv": {
+    "airport": "HNL",
+    "station": "91182022521",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "IAH_72243012960_2024.csv": {
+    "airport": "IAH",
+    "station": "72243012960",
+    "year": 2024,
+    "bytes": 8919642,
+    "status": "ok"
+  },
+  "MSP_72658014922_2024.csv": {
+    "airport": "MSP",
+    "station": "72658014922",
+    "year": 2024,
+    "bytes": 10516557,
+    "status": "ok"
+  },
+  "LGA_72503014732_2023.csv": {
+    "airport": "LGA",
+    "station": "72503014732",
+    "year": 2023,
+    "bytes": 8723313,
+    "status": "ok"
+  },
+  "LGA_72503014732_2026.csv": {
+    "airport": "LGA",
+    "station": "72503014732",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "LGA_72503014732_2025.csv": {
+    "airport": "LGA",
+    "station": "72503014732",
+    "year": 2025,
+    "bytes": 5619560,
+    "status": "ok"
+  },
+  "ANC_70273026451_2024.csv": {
+    "airport": "ANC",
+    "station": "70273026451",
+    "year": 2024,
+    "bytes": 10601620,
+    "status": "ok"
+  },
+  "LGA_72503014732_2024.csv": {
+    "airport": "LGA",
+    "station": "72503014732",
+    "year": 2024,
+    "bytes": 8580412,
+    "status": "ok"
+  },
+  "DCA_72405013743_2026.csv": {
+    "airport": "DCA",
+    "station": "72405013743",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "LAS_72386023169_2023.csv": {
+    "airport": "LAS",
+    "station": "72386023169",
+    "year": 2023,
+    "bytes": 8622843,
+    "status": "ok"
+  },
+  "DCA_72405013743_2025.csv": {
+    "airport": "DCA",
+    "station": "72405013743",
+    "year": 2025,
+    "bytes": 6865548,
+    "status": "ok"
+  },
+  "LAS_72386023169_2025.csv": {
+    "airport": "LAS",
+    "station": "72386023169",
+    "year": 2025,
+    "bytes": 6084932,
+    "status": "ok"
+  },
+  "LAS_72386023169_2026.csv": {
+    "airport": "LAS",
+    "station": "72386023169",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "DCA_72405013743_2024.csv": {
+    "airport": "DCA",
+    "station": "72405013743",
+    "year": 2024,
+    "bytes": 10359830,
+    "status": "ok"
+  },
+  "MCO_72205012815_2024.csv": {
+    "airport": "MCO",
+    "station": "72205012815",
+    "year": 2024,
+    "bytes": 8508189,
+    "status": "ok"
+  },
+  "DCA_72405013743_2023.csv": {
+    "airport": "DCA",
+    "station": "72405013743",
+    "year": 2023,
+    "bytes": 10054555,
+    "status": "ok"
+  },
+  "MCO_72205012815_2026.csv": {
+    "airport": "MCO",
+    "station": "72205012815",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "LAS_72386023169_2024.csv": {
+    "airport": "LAS",
+    "station": "72386023169",
+    "year": 2024,
+    "bytes": 9343082,
+    "status": "ok"
+  },
+  "MCO_72205012815_2023.csv": {
+    "airport": "MCO",
+    "station": "72205012815",
+    "year": 2023,
+    "bytes": 8038281,
+    "status": "ok"
+  },
+  "MCO_72205012815_2025.csv": {
+    "airport": "MCO",
+    "station": "72205012815",
+    "year": 2025,
+    "bytes": 5682180,
+    "status": "ok"
+  },
+  "SLC_72572024127_2026.csv": {
+    "airport": "SLC",
+    "station": "72572024127",
+    "year": 2026,
+    "bytes": 0,
+    "status": "404"
+  },
+  "SLC_72572024127_2025.csv": {
+    "airport": "SLC",
+    "station": "72572024127",
+    "year": 2025,
+    "bytes": 6068904,
+    "status": "ok"
+  },
+  "SLC_72572024127_2023.csv": {
+    "airport": "SLC",
+    "station": "72572024127",
+    "year": 2023,
+    "bytes": 9872429,
+    "status": "ok"
+  },
+  "SLC_72572024127_2024.csv": {
+    "airport": "SLC",
+    "station": "72572024127",
+    "year": 2024,
+    "bytes": 9481959,
+    "status": "ok"
+  }
+}

@@ -1,0 +1,16 @@
+﻿Reporting_Airline,sample_flights,name,icao,callsign,country,active
+DL,440287,Delta Air Lines,DAL,DELTA,United States,Y
+WN,370018,Southwest Airlines,SWA,SOUTHWEST,United States,Y
+AA,365346,American Airlines,AAL,AMERICAN,United States,Y
+OO,316617,SkyWest,SKW,SKYWEST,United States,Y
+UA,312635,United Airlines,UAL,UNITED,United States,Y
+YX,123258,Midwest Airlines,MEP,,United States,Y
+MQ,112438,American Eagle Airlines,EGF,EAGLE FLIGHT,United States,Y
+B6,109577,JetBlue Airways,JBU,JETBLUE,United States,Y
+AS,100751,Alaska Airlines,ASA, Inc.,ALASKA,Y
+NK,93685,Spirit Airlines,NKS,SPIRIT WINGS,United States,Y
+F9,76126,Frontier Airlines,FFT,FRONTIER FLIGHT,United States,Y
+9E,68693,Pinnacle Airlines,FLG,FLAGSHIP,United States,Y
+OH,45652,Comair,COM,COMAIR,United States,Y
+HA,33495,Hawaiian Airlines,HAL,HAWAIIAN,United States,Y
+G4,10055,Allegiant Air,AAY,ALLEGIANT,United States,Y

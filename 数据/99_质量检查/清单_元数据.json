@@ -1,0 +1,74 @@
+{
+  "ourairports_airports.csv": {
+    "url": "https://davidmegginson.github.io/ourairports-data/airports.csv",
+    "dir": "03_机场航线_元数据",
+    "bytes": 12763634,
+    "status": "ok"
+  },
+  "ourairports_runways.csv": {
+    "url": "https://davidmegginson.github.io/ourairports-data/runways.csv",
+    "dir": "03_机场航线_元数据",
+    "bytes": 3976264,
+    "status": "ok"
+  },
+  "ourairports_navaids.csv": {
+    "url": "https://davidmegginson.github.io/ourairports-data/navaids.csv",
+    "dir": "03_机场航线_元数据",
+    "bytes": 1524931,
+    "status": "ok"
+  },
+  "ourairports_countries.csv": {
+    "url": "https://davidmegginson.github.io/ourairports-data/countries.csv",
+    "dir": "03_机场航线_元数据",
+    "bytes": 24583,
+    "status": "ok"
+  },
+  "ourairports_regions.csv": {
+    "url": "https://davidmegginson.github.io/ourairports-data/regions.csv",
+    "dir": "03_机场航线_元数据",
+    "bytes": 485265,
+    "status": "ok"
+  },
+  "ourairports_airport-frequencies.csv": {
+    "url": "https://davidmegginson.github.io/ourairports-data/airport-frequencies.csv",
+    "dir": "03_机场航线_元数据",
+    "bytes": 1302996,
+    "status": "ok"
+  },
+  "openflights_airports.dat": {
+    "url": "https://raw.githubusercontent.com/jpatokal/openflights/master/data/airports.dat",
+    "dir": "03_机场航线_元数据",
+    "bytes": 1127225,
+    "status": "ok"
+  },
+  "openflights_airlines.dat": {
+    "url": "https://raw.githubusercontent.com/jpatokal/openflights/master/data/airlines.dat",
+    "dir": "03_机场航线_元数据",
+    "bytes": 396896,
+    "status": "ok"
+  },
+  "openflights_routes.dat": {
+    "url": "https://raw.githubusercontent.com/jpatokal/openflights/master/data/routes.dat",
+    "dir": "03_机场航线_元数据",
+    "bytes": 2377148,
+    "status": "ok"
+  },
+  "isd-history.csv": {
+    "url": "https://www.ncei.noaa.gov/pub/data/noaa/isd-history.csv",
+    "dir": "02_天气_气象/站点表",
+    "bytes": 2914601,
+    "status": "ok"
+  },
+  "isd-lite-format说明.txt": {
+    "url": "https://www.ncei.noaa.gov/pub/data/noaa/isd-lite/isd-lite-format.txt",
+    "dir": "02_天气_气象/站点表",
+    "bytes": 32357,
+    "status": "ok"
+  },
+  "tsa_passenger_volumes_raw.html": {
+    "url": "https://www.tsa.gov/travel/passenger-volumes",
+    "dir": "04_运力与需求",
+    "bytes": 200203,
+    "status": "ok"
+  }
+}

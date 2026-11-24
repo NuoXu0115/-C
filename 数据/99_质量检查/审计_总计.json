@@ -1,0 +1,9 @@
+{
+  "rows": 26227577,
+  "cancelled": 395923,
+  "diverted": 71061,
+  "arr_time_missing": 403353,
+  "arr_delay_missing": 466986,
+  "delay_cause_reported": 3040289,
+  "dup_key_rows": 1
+}

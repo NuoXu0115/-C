@@ -1,0 +1,642 @@
+{
+  "ASOS_ATL_2024.csv": {
+    "kind": "metar",
+    "airport": "ATL",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_ATL_2024.csv",
+    "bytes": 909096,
+    "status": "cached"
+  },
+  "ASOS_ATL_2023.csv": {
+    "kind": "metar",
+    "airport": "ATL",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_ATL_2023.csv",
+    "bytes": 913615,
+    "status": "cached"
+  },
+  "ASOS_ATL_2025.csv": {
+    "kind": "metar",
+    "airport": "ATL",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_ATL_2025.csv",
+    "bytes": 906113,
+    "status": "cached"
+  },
+  "ASOS_ATL_2026.csv": {
+    "kind": "metar",
+    "airport": "ATL",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_ATL_2026.csv",
+    "bytes": 686315,
+    "status": "cached"
+  },
+  "ASOS_ORD_2024.csv": {
+    "kind": "metar",
+    "airport": "ORD",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_ORD_2024.csv",
+    "bytes": 902921,
+    "status": "cached"
+  },
+  "ASOS_ORD_2023.csv": {
+    "kind": "metar",
+    "airport": "ORD",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_ORD_2023.csv",
+    "bytes": 901595,
+    "status": "cached"
+  },
+  "ASOS_ORD_2025.csv": {
+    "kind": "metar",
+    "airport": "ORD",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_ORD_2025.csv",
+    "bytes": 901802,
+    "status": "cached"
+  },
+  "ASOS_ORD_2026.csv": {
+    "kind": "metar",
+    "airport": "ORD",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_ORD_2026.csv",
+    "bytes": 679863,
+    "status": "cached"
+  },
+  "ASOS_DFW_2024.csv": {
+    "kind": "metar",
+    "airport": "DFW",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_DFW_2024.csv",
+    "bytes": 889997,
+    "status": "cached"
+  },
+  "ASOS_DFW_2023.csv": {
+    "kind": "metar",
+    "airport": "DFW",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_DFW_2023.csv",
+    "bytes": 893891,
+    "status": "cached"
+  },
+  "ASOS_DFW_2025.csv": {
+    "kind": "metar",
+    "airport": "DFW",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_DFW_2025.csv",
+    "bytes": 885901,
+    "status": "cached"
+  },
+  "ASOS_DFW_2026.csv": {
+    "kind": "metar",
+    "airport": "DFW",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_DFW_2026.csv",
+    "bytes": 671790,
+    "status": "cached"
+  },
+  "ASOS_DEN_2023.csv": {
+    "kind": "metar",
+    "airport": "DEN",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_DEN_2023.csv",
+    "bytes": 914081,
+    "status": "cached"
+  },
+  "ASOS_DEN_2024.csv": {
+    "kind": "metar",
+    "airport": "DEN",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_DEN_2024.csv",
+    "bytes": 916174,
+    "status": "cached"
+  },
+  "ASOS_DEN_2025.csv": {
+    "kind": "metar",
+    "airport": "DEN",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_DEN_2025.csv",
+    "bytes": 915907,
+    "status": "cached"
+  },
+  "ASOS_DEN_2026.csv": {
+    "kind": "metar",
+    "airport": "DEN",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_DEN_2026.csv",
+    "bytes": 694856,
+    "status": "cached"
+  },
+  "ASOS_LAX_2023.csv": {
+    "kind": "metar",
+    "airport": "LAX",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_LAX_2023.csv",
+    "bytes": 889538,
+    "status": "cached"
+  },
+  "ASOS_LAX_2024.csv": {
+    "kind": "metar",
+    "airport": "LAX",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_LAX_2024.csv",
+    "bytes": 887747,
+    "status": "cached"
+  },
+  "ASOS_LAX_2025.csv": {
+    "kind": "metar",
+    "airport": "LAX",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_LAX_2025.csv",
+    "bytes": 880360,
+    "status": "cached"
+  },
+  "ASOS_LAX_2026.csv": {
+    "kind": "metar",
+    "airport": "LAX",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_LAX_2026.csv",
+    "bytes": 669270,
+    "status": "cached"
+  },
+  "ASOS_JFK_2023.csv": {
+    "kind": "metar",
+    "airport": "JFK",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_JFK_2023.csv",
+    "bytes": 918102,
+    "status": "cached"
+  },
+  "ASOS_JFK_2025.csv": {
+    "kind": "metar",
+    "airport": "JFK",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_JFK_2025.csv",
+    "bytes": 928659,
+    "status": "cached"
+  },
+  "ASOS_JFK_2026.csv": {
+    "kind": "metar",
+    "airport": "JFK",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_JFK_2026.csv",
+    "bytes": 698824,
+    "status": "cached"
+  },
+  "ASOS_JFK_2024.csv": {
+    "kind": "metar",
+    "airport": "JFK",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_JFK_2024.csv",
+    "bytes": 922734,
+    "status": "cached"
+  },
+  "ASOS_SFO_2024.csv": {
+    "kind": "metar",
+    "airport": "SFO",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_SFO_2024.csv",
+    "bytes": 891625,
+    "status": "cached"
+  },
+  "ASOS_SFO_2026.csv": {
+    "kind": "metar",
+    "airport": "SFO",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_SFO_2026.csv",
+    "bytes": 669039,
+    "status": "cached"
+  },
+  "ASOS_SFO_2025.csv": {
+    "kind": "metar",
+    "airport": "SFO",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_SFO_2025.csv",
+    "bytes": 892133,
+    "status": "cached"
+  },
+  "ASOS_SEA_2023.csv": {
+    "kind": "metar",
+    "airport": "SEA",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_SEA_2023.csv",
+    "bytes": 892646,
+    "status": "cached"
+  },
+  "ASOS_SEA_2024.csv": {
+    "kind": "metar",
+    "airport": "SEA",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_SEA_2024.csv",
+    "bytes": 901220,
+    "status": "cached"
+  },
+  "ASOS_SEA_2025.csv": {
+    "kind": "metar",
+    "airport": "SEA",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_SEA_2025.csv",
+    "bytes": 895260,
+    "status": "cached"
+  },
+  "ASOS_SEA_2026.csv": {
+    "kind": "metar",
+    "airport": "SEA",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_SEA_2026.csv",
+    "bytes": 675033,
+    "status": "cached"
+  },
+  "ASOS_MIA_2023.csv": {
+    "kind": "metar",
+    "airport": "MIA",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_MIA_2023.csv",
+    "bytes": 917973,
+    "status": "cached"
+  },
+  "ASOS_MIA_2024.csv": {
+    "kind": "metar",
+    "airport": "MIA",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_MIA_2024.csv",
+    "bytes": 929271,
+    "status": "cached"
+  },
+  "ASOS_MIA_2025.csv": {
+    "kind": "metar",
+    "airport": "MIA",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_MIA_2025.csv",
+    "bytes": 911254,
+    "status": "cached"
+  },
+  "ASOS_PHX_2023.csv": {
+    "kind": "metar",
+    "airport": "PHX",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_PHX_2023.csv",
+    "bytes": 885136,
+    "status": "cached"
+  },
+  "ASOS_PHX_2024.csv": {
+    "kind": "metar",
+    "airport": "PHX",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_PHX_2024.csv",
+    "bytes": 891159,
+    "status": "cached"
+  },
+  "ASOS_PHX_2025.csv": {
+    "kind": "metar",
+    "airport": "PHX",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_PHX_2025.csv",
+    "bytes": 878022,
+    "status": "cached"
+  },
+  "ASOS_PHX_2026.csv": {
+    "kind": "metar",
+    "airport": "PHX",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_PHX_2026.csv",
+    "bytes": 674806,
+    "status": "cached"
+  },
+  "ASOS_BOS_2023.csv": {
+    "kind": "metar",
+    "airport": "BOS",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_BOS_2023.csv",
+    "bytes": 905669,
+    "status": "cached"
+  },
+  "ASOS_BOS_2025.csv": {
+    "kind": "metar",
+    "airport": "BOS",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_BOS_2025.csv",
+    "bytes": 904084,
+    "status": "cached"
+  },
+  "ASOS_BOS_2026.csv": {
+    "kind": "metar",
+    "airport": "BOS",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_BOS_2026.csv",
+    "bytes": 670467,
+    "status": "cached"
+  },
+  "ASOS_MSP_2023.csv": {
+    "kind": "metar",
+    "airport": "MSP",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_MSP_2023.csv",
+    "bytes": 876008,
+    "status": "cached"
+  },
+  "ASOS_MSP_2024.csv": {
+    "kind": "metar",
+    "airport": "MSP",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_MSP_2024.csv",
+    "bytes": 876328,
+    "status": "cached"
+  },
+  "ASOS_MSP_2025.csv": {
+    "kind": "metar",
+    "airport": "MSP",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_MSP_2025.csv",
+    "bytes": 869904,
+    "status": "cached"
+  },
+  "ASOS_MSP_2026.csv": {
+    "kind": "metar",
+    "airport": "MSP",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_MSP_2026.csv",
+    "bytes": 655796,
+    "status": "cached"
+  },
+  "ASOS_IAH_2023.csv": {
+    "kind": "metar",
+    "airport": "IAH",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_IAH_2023.csv",
+    "bytes": 893886,
+    "status": "cached"
+  },
+  "ASOS_IAH_2024.csv": {
+    "kind": "metar",
+    "airport": "IAH",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_IAH_2024.csv",
+    "bytes": 896903,
+    "status": "cached"
+  },
+  "ASOS_IAH_2026.csv": {
+    "kind": "metar",
+    "airport": "IAH",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_IAH_2026.csv",
+    "bytes": 675569,
+    "status": "cached"
+  },
+  "ASOS_IAH_2025.csv": {
+    "kind": "metar",
+    "airport": "IAH",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_IAH_2025.csv",
+    "bytes": 892673,
+    "status": "cached"
+  },
+  "ASOS_ANC_2025.csv": {
+    "kind": "metar",
+    "airport": "ANC",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_ANC_2025.csv",
+    "bytes": 902048,
+    "status": "ok"
+  },
+  "ASOS_ANC_2024.csv": {
+    "kind": "metar",
+    "airport": "ANC",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_ANC_2024.csv",
+    "bytes": 911256,
+    "status": "ok"
+  },
+  "ASOS_HNL_2024.csv": {
+    "kind": "metar",
+    "airport": "HNL",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_HNL_2024.csv",
+    "bytes": 949530,
+    "status": "ok"
+  },
+  "ASOS_HNL_2026.csv": {
+    "kind": "metar",
+    "airport": "HNL",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_HNL_2026.csv",
+    "bytes": 716074,
+    "status": "ok"
+  },
+  "ASOS_LGA_2023.csv": {
+    "kind": "metar",
+    "airport": "LGA",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_LGA_2023.csv",
+    "bytes": 915682,
+    "status": "cached"
+  },
+  "ASOS_LGA_2024.csv": {
+    "kind": "metar",
+    "airport": "LGA",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_LGA_2024.csv",
+    "bytes": 922634,
+    "status": "cached"
+  },
+  "ASOS_LGA_2025.csv": {
+    "kind": "metar",
+    "airport": "LGA",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_LGA_2025.csv",
+    "bytes": 928408,
+    "status": "cached"
+  },
+  "ASOS_LGA_2026.csv": {
+    "kind": "metar",
+    "airport": "LGA",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_LGA_2026.csv",
+    "bytes": 700318,
+    "status": "cached"
+  },
+  "ASOS_DCA_2023.csv": {
+    "kind": "metar",
+    "airport": "DCA",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_DCA_2023.csv",
+    "bytes": 892958,
+    "status": "cached"
+  },
+  "ASOS_DCA_2024.csv": {
+    "kind": "metar",
+    "airport": "DCA",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_DCA_2024.csv",
+    "bytes": 894367,
+    "status": "cached"
+  },
+  "ASOS_DCA_2025.csv": {
+    "kind": "metar",
+    "airport": "DCA",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_DCA_2025.csv",
+    "bytes": 895598,
+    "status": "cached"
+  },
+  "ASOS_DCA_2026.csv": {
+    "kind": "metar",
+    "airport": "DCA",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_DCA_2026.csv",
+    "bytes": 674018,
+    "status": "cached"
+  },
+  "ASOS_LAS_2023.csv": {
+    "kind": "metar",
+    "airport": "LAS",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_LAS_2023.csv",
+    "bytes": 874555,
+    "status": "cached"
+  },
+  "ASOS_LAS_2024.csv": {
+    "kind": "metar",
+    "airport": "LAS",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_LAS_2024.csv",
+    "bytes": 870185,
+    "status": "cached"
+  },
+  "ASOS_LAS_2025.csv": {
+    "kind": "metar",
+    "airport": "LAS",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_LAS_2025.csv",
+    "bytes": 864727,
+    "status": "cached"
+  },
+  "ASOS_LAS_2026.csv": {
+    "kind": "metar",
+    "airport": "LAS",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_LAS_2026.csv",
+    "bytes": 654257,
+    "status": "cached"
+  },
+  "ASOS_MCO_2023.csv": {
+    "kind": "metar",
+    "airport": "MCO",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_MCO_2023.csv",
+    "bytes": 905982,
+    "status": "cached"
+  },
+  "ASOS_MCO_2024.csv": {
+    "kind": "metar",
+    "airport": "MCO",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_MCO_2024.csv",
+    "bytes": 910417,
+    "status": "cached"
+  },
+  "ASOS_MCO_2025.csv": {
+    "kind": "metar",
+    "airport": "MCO",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_MCO_2025.csv",
+    "bytes": 895768,
+    "status": "cached"
+  },
+  "ASOS_MCO_2026.csv": {
+    "kind": "metar",
+    "airport": "MCO",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_MCO_2026.csv",
+    "bytes": 680725,
+    "status": "cached"
+  },
+  "ASOS_SLC_2023.csv": {
+    "kind": "metar",
+    "airport": "SLC",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_SLC_2023.csv",
+    "bytes": 915494,
+    "status": "cached"
+  },
+  "ASOS_SLC_2024.csv": {
+    "kind": "metar",
+    "airport": "SLC",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_SLC_2024.csv",
+    "bytes": 910152,
+    "status": "cached"
+  },
+  "ASOS_SLC_2025.csv": {
+    "kind": "metar",
+    "airport": "SLC",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_SLC_2025.csv",
+    "bytes": 906982,
+    "status": "cached"
+  },
+  "ASOS_SLC_2026.csv": {
+    "kind": "metar",
+    "airport": "SLC",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_SLC_2026.csv",
+    "bytes": 679556,
+    "status": "cached"
+  },
+  "ASOS_MIA_2026.csv": {
+    "kind": "metar",
+    "airport": "MIA",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_MIA_2026.csv",
+    "bytes": 685232,
+    "status": "ok"
+  },
+  "ASOS_ANC_2026.csv": {
+    "kind": "metar",
+    "airport": "ANC",
+    "year": 2026,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_ANC_2026.csv",
+    "bytes": 674178,
+    "status": "ok"
+  },
+  "ASOS_HNL_2023.csv": {
+    "kind": "metar",
+    "airport": "HNL",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_HNL_2023.csv",
+    "bytes": 0,
+    "status": "FAIL HTTPError"
+  },
+  "ASOS_ANC_2023.csv": {
+    "kind": "metar",
+    "airport": "ANC",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_ANC_2023.csv",
+    "bytes": 0,
+    "status": "FAIL HTTPError"
+  },
+  "ASOS_SFO_2023.csv": {
+    "kind": "metar",
+    "airport": "SFO",
+    "year": 2023,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_SFO_2023.csv",
+    "bytes": 0,
+    "status": "FAIL HTTPError"
+  },
+  "ASOS_BOS_2024.csv": {
+    "kind": "metar",
+    "airport": "BOS",
+    "year": 2024,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_BOS_2024.csv",
+    "bytes": 0,
+    "status": "FAIL HTTPError"
+  },
+  "ASOS_HNL_2025.csv": {
+    "kind": "metar",
+    "airport": "HNL",
+    "year": 2025,
+    "path": "02_天气_气象\\METAR_IEM\\ASOS_HNL_2025.csv",
+    "bytes": 950861,
+    "status": "ok"
+  }
+}
