@@ -1,0 +1,16 @@
+# 竞赛题目原文与本地冗余文件（不随公开仓库分发）
+2027_MCM_C_*.pdf
+2027_MCM_C_*.docx
+build_docx.py
+
+# 本地冗余压缩副本（内容与 数据/ 重复）
+数据.zip
+
+# 系统与临时文件
+Thumbs.db
+.DS_Store
+desktop.ini
+__pycache__/
+*.part
+*.tmp
+*.log.tmp

@@ -1,0 +1,16 @@
+# Keep every data file byte-identical: no EOL conversion, no CRLF rewriting.
+* -text
+
+# Scripts and docs are text (LF normalised) so diffs stay readable.
+*.py      text eol=lf
+*.md      text eol=lf
+*.ps1     text eol=crlf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# Explicit binary markers (data integrity)
+*.zip   binary
+*.gz    binary
+*.pdf   binary
+*.dly   binary
+*.dat   binary
