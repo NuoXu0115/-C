@@ -1,0 +1,73 @@
+================================================================================
+航班数据预处理报告
+================================================================================
+
+1. 数据基本信息
+   - 原始数据: 1253827 行 × 45 列
+   - 处理后数据: 1253827 行 × 50 列
+   - 数据来源: 3 个月份文件
+
+2. 缺失值处理
+               列名    缺失数量  缺失比例(%)
+      DivArrDelay 1251269    99.80
+   DivReachedDest 1250843    99.76
+      Div1Airport 1250628    99.74
+   Div1TotalGTime 1250628    99.74
+ Div1LongestGTime 1250628    99.74
+     FirstDepTime 1245910    99.37
+    TotalAddGTime 1245910    99.37
+  LongestAddGTime 1245910    99.37
+ CancellationCode 1232725    98.32
+    SecurityDelay  978823    78.07
+         NASDelay  978823    78.07
+     WeatherDelay  978823    78.07
+     CarrierDelay  978823    78.07
+LateAircraftDelay  978823    78.07
+  ArrDelayMinutes   24086     1.92
+         ArrDel15   24086     1.92
+         ArrDelay   24086     1.92
+ActualElapsedTime   24086     1.92
+          AirTime   24086     1.92
+          ArrTime   21528     1.72
+          TaxiOut   20887     1.67
+        WheelsOff   20887     1.67
+          DepTime   20476     1.63
+         DepDelay   20476     1.63
+  DepDelayMinutes   20476     1.63
+         DepDel15   20476     1.63
+      Tail_Number    1893     0.15
+   CRSElapsedTime       4     0.00
+
+3. 异常值检测
+      列名     均值    标准差  3σ异常值数 3σ异常值占比(%)  IQR异常值数 IQR异常值占比(%)
+DepDelay  12.67  55.42   16258       1.32   157050       12.73
+ArrDelay   7.67  57.40   15936       1.30   108065        8.79
+ TaxiOut  18.52  10.11   23297       1.89    76926        6.24
+ AirTime 121.30  75.23   16240       1.32    61812        5.03
+Distance 875.36 627.20    6935       0.55    71274        5.68
+
+4. 数据标准化
+               列名   原始均值  原始标准差                   标准化后列名
+         DepDelay  12.67  55.42          DepDelay_scaled
+  DepDelayMinutes  15.75  54.42   DepDelayMinutes_scaled
+         ArrDelay   7.67  57.40          ArrDelay_scaled
+  ArrDelayMinutes  16.12  54.06   ArrDelayMinutes_scaled
+          TaxiOut  18.52  10.11           TaxiOut_scaled
+          AirTime 121.30  75.23           AirTime_scaled
+         Distance 875.36 627.20          Distance_scaled
+ActualElapsedTime 148.13  77.12 ActualElapsedTime_scaled
+     CarrierDelay   5.44  36.59      CarrierDelay_scaled
+     WeatherDelay   0.85  16.10      WeatherDelay_scaled
+         NASDelay   2.98  15.03          NASDelay_scaled
+    SecurityDelay   0.03   1.55     SecurityDelay_scaled
+LateAircraftDelay   5.43  29.46 LateAircraftDelay_scaled
+
+5. 处理策略总结
+   缺失值: 结构性缺失保留，业务逻辑填充0，距离用中位数
+   异常值: 保留真实极端值，新增标记列
+   标准化: Z-score标准化，适用于后续建模
+
+6. 输出文件
+   - 预处理数据: D:\数模\练习3\预处理结果\航班数据_预处理完成.csv
+   - 标准化数据: D:\数模\练习3\预处理结果\航班数据_标准化.csv
+   - 可视化图表: D:\数模\练习3\预处理结果\figures
